@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Einzelbeispiel</string>
+    <string name="server_response_text">Server response: %s</string>
 </resources>
